@@ -1,174 +1,657 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: ppr:PPR667653
+  title: FET fusion oncoproteins disrupt physiologic DNA repair networks and induce
+    ATR synthetic lethality in cance
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Asmin Tulpule
+  - Shruti Menon
+  - Marcus Breese
+  - Yone Lin
+  - Hannah Allegakoen
+  - Shruthi Perati
+  - Ann Heslin
+  - Max Horlbeck
+  - Jonathan Weissman
+  - Alejandro Sweet-Cordero
+  - Trever Bivona
+  publisher: ''
+  date: '2023-01-01'
+  link: https://doi.org/10.21203/rs.3.rs-2869150/v1
+  orcid: 0000-0002-3875-871X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: ppr:PPR637933
+  title: Single-cell multi-scale footprinting reveals the modular organization of
+    DNA regulatory element
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  - Yan Hu
+  - Sai Ma
+  - Vinay Kartha
+  - Fabiana Duarte
+  - Max Horlbeck
+  - Ruochi Zhang
+  - Rojesh Shrestha
+  - Ajay Labade
+  - Heidi Kletzien
+  - Alia Meliki
+  - Andrew Castillo
+  - Neva Durand
+  - Eugenio Mattei
+  - Lauren Anderson
+  - Tristan Tay
+  - Andrew Earl
+  - Noam Shoresh
+  - Charles Epstein
+  - Amy Wagers
+  - Jason Buenrostro
+  publisher: ''
+  date: '2023-01-01'
+  link: https://doi.org/10.1101/2023.03.28.533945
+  orcid: 0000-0002-3875-871X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: pmid:36282590
+  title: GATOR2-dependent mTORC1 activity is a therapeutic vulnerability in FOXO1
+    fusion-positive rhabdomyosarcoma.
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Jacqueline Morales
+  - David V Allegakoen
+  - "Jos\xE9 A Garcia"
+  - Kristen Kwong
+  - Pushpendra K Sahu
+  - Drew A Fajardo
+  - Yue Pan
+  - Max A Horlbeck
+  - Jonathan S Weissman
+  - W Clay Gustafson
+  - Trever G Bivona
+  - Amit J Sabnis
+  publisher: JCI insight
+  date: '2022-12-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36282590
+  orcid: 0000-0002-3875-871X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: pmid:36381608
+  title: Dual genome-wide coding and lncRNA screens in neural induction of induced
+    pluripotent stem cells.
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - David Wu
+  - Aunoy Poddar
+  - Elpiniki Ninou
+  - Elizabeth Hwang
+  - Mitchel A Cole
+  - S John Liu
+  - Max A Horlbeck
+  - Jin Chen
+  - Joseph M Replogle
+  - Giovanni A Carosso
+  - Nicolas W L Eng
+  - Jonghoon Chang
+  - Yin Shen
+  - Jonathan S Weissman
+  - Daniel A Lim
+  publisher: Cell genomics
+  date: '2022-09-14'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36381608
+  orcid: 0000-0002-3875-871X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: pmid:34034859
+  title: Genome-wide CRISPRi screening identifies OCIAD1 as a prohibitin client and
+    regulatory determinant of mitochondrial Complex III assembly in human cells.
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Maxence Le Vasseur
+  - Jonathan Friedman
+  - Marco Jost
+  - Jiawei Xu
+  - Justin Yamada
+  - Martin Kampmann
+  - Max A Horlbeck
+  - Michelle R Salemi
+  - Brett S Phinney
+  - Jonathan S Weissman
+  - Jodi Nunnari
+  publisher: eLife
+  date: '2021-05-26'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34034859
+  orcid: 0000-0002-3875-871X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: pmid:33326085
+  title: Genome-Scale Perturbation of Long Noncoding RNA Expression Using CRISPR Interference.
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - S John Liu
+  - Max A Horlbeck
+  - Jonathan S Weissman
+  - Daniel A Lim
+  publisher: Methods in molecular biology (Clifton, N.J.)
+  date: '2021-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33326085
+  orcid: 0000-0002-3875-871X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: pmid:32619469
+  title: Pharmaceutical-Grade Rigosertib Is a Microtubule-Destabilizing Agent.
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Marco Jost
+  - Yuwen Chen
+  - Luke A Gilbert
+  - Max A Horlbeck
+  - Lenno Krenning
+  - "Gr\xE9gory Menchon"
+  - Ankit Rai
+  - Min Y Cho
+  - Jacob J Stern
+  - Andrea E Prota
+  - Martin Kampmann
+  - Anna Akhmanova
+  - Michel O Steinmetz
+  - Marvin E Tanenbaum
+  - Jonathan S Weissman
+  publisher: Molecular cell
+  date: '2020-07-02'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32619469
+  orcid: 0000-0002-3875-871X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:32234056
+  title: CRISPRi-based radiation modifier screen identifies long non-coding RNA therapeutic
+    targets in glioma.
+  authors:
+  - S John Liu
+  - Martina Malatesta
+  - Brian V Lien
+  - Parna Saha
+  - Shivani S Thombare
+  - Sung Jun Hong
+  - Leslie Pedraza
+  - Mark Koontz
+  - Kyounghee Seo
+  - Max A Horlbeck
+  - Daniel He
+  - Harjus S Birk
+  - Miten Jain
+  - Hugh E Olsen
+  - Mark Akeson
+  - Jonathan S Weissman
+  - Michelle Monje
+  - Nalin Gupta
+  - David R Raleigh
+  - Erik M Ullian
+  - Daniel A Lim
+  publisher: Genome biology
+  date: '2020-03-31'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32234056
+  orcid: 0000-0002-3875-871X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:31932729
+  title: Titrating gene expression using libraries of systematically attenuated CRISPR
+    guide RNAs.
+  authors:
+  - Marco Jost
+  - Daniel A Santos
+  - Reuben A Saunders
+  - Max A Horlbeck
+  - John S Hawkins
+  - Sonia M Scaria
+  - Thomas M Norman
+  - Jeffrey A Hussmann
+  - Christina R Liem
+  - Carol A Gross
+  - Jonathan S Weissman
+  publisher: Nature biotechnology
+  date: '2020-01-13'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31932729
+  orcid: 0000-0002-3875-871X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:31488582
+  title: New factors for protein transport identified by a genome-wide CRISPRi screen
+    in mammalian cells.
+  authors:
+  - Laia Bassaganyas
+  - Stephanie J Popa
+  - Max Horlbeck
+  - Claudia Puri
+  - Sarah E Stewart
+  - Felix Campelo
+  - Anupama Ashok
+  - Cristian M Butnaru
+  - Nathalie Brouwers
+  - Kartoosh Heydari
+  - Jean Ripoche
+  - Jonathan Weissman
+  - David C Rubinsztein
+  - Randy Schekman
+  - Vivek Malhotra
+  - Kevin Moreau
+  - Julien Villeneuve
+  publisher: The Journal of cell biology
+  date: '2019-09-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31488582
+  orcid: 0000-0002-3875-871X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:31395745
+  title: Exploring genetic interaction manifolds constructed from rich single-cell
+    phenotypes.
+  authors:
+  - Thomas M Norman
+  - Max A Horlbeck
+  - Joseph M Replogle
+  - Alex Y Ge
+  - Albert Xu
+  - Marco Jost
+  - Luke A Gilbert
+  - Jonathan S Weissman
+  publisher: Science (New York, N.Y.)
+  date: '2019-08-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31395745
+  orcid: 0000-0002-3875-871X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:30875366
+  title: Cellular response to small molecules that selectively stall protein synthesis
+    by the ribosome.
+  authors:
+  - "Nad\xE8ge Liaud"
+  - Max A Horlbeck
+  - Luke A Gilbert
+  - Ketrin Gjoni
+  - Jonathan S Weissman
+  - Jamie H D Cate
+  publisher: PLoS genetics
+  date: '2019-03-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30875366
+  orcid: 0000-0002-3875-871X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:30033366
+  title: Mapping the Genetic Landscape of Human Cells.
+  authors:
+  - Max A Horlbeck
+  - Albert Xu
+  - Min Wang
+  - Neal K Bennett
+  - Chong Y Park
+  - Derek Bogdanoff
+  - Britt Adamson
+  - Eric D Chow
+  - Martin Kampmann
+  - Tim R Peterson
+  - Ken Nakamura
+  - Michael A Fischbach
+  - Jonathan S Weissman
+  - Luke A Gilbert
+  publisher: Cell
+  date: '2018-07-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30033366
+  orcid: 0000-0002-3875-871X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:29091290
+  title: Combinatorial genetics in liver repopulation and carcinogenesis with a in
+    vivo CRISPR activation platform.
+  authors:
+  - Kirk J Wangensteen
+  - Yue J Wang
+  - Zhixun Dou
+  - Amber W Wang
+  - Elham Mosleh-Shirazi
+  - Max A Horlbeck
+  - Luke A Gilbert
+  - Jonathan S Weissman
+  - Shelley L Berger
+  - Klaus H Kaestner
+  publisher: Hepatology (Baltimore, Md.)
+  date: '2018-05-14'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29091290
+  orcid: 0000-0002-3875-871X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:29745899
+  title: Identification of a transporter complex responsible for the cytosolic entry
+    of nitrogen-containing bisphosphonates.
+  authors:
+  - Zhou Yu
+  - Lauren E Surface
+  - Chong Yon Park
+  - Max A Horlbeck
+  - Gregory A Wyant
+  - Monther Abu-Remaileh
+  - Timothy R Peterson
+  - David M Sabatini
+  - Jonathan S Weissman
+  - Erin K O'Shea
+  publisher: eLife
+  date: '2018-05-10'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29745899
+  orcid: 0000-0002-3875-871X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:29731168
+  title: Promoter of lncRNA Gene PVT1 Is a Tumor-Suppressor DNA Boundary Element.
+  authors:
+  - Seung Woo Cho
+  - Jin Xu
+  - Ruping Sun
+  - Maxwell R Mumbach
+  - Ava C Carter
+  - Y Grace Chen
+  - Kathryn E Yost
+  - Jeewon Kim
+  - Jing He
+  - Stephanie A Nevins
+  - Suet-Feung Chin
+  - Carlos Caldas
+  - S John Liu
+  - Max A Horlbeck
+  - Daniel A Lim
+  - Jonathan S Weissman
+  - Christina Curtis
+  - Howard Y Chang
+  publisher: Cell
+  date: '2018-05-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29731168
+  orcid: 0000-0002-3875-871X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:29359686
+  title: Targeting RAS-driven human cancer cells with antibodies to upregulated and
+    essential cell-surface proteins.
+  authors:
+  - Alexander J Martinko
+  - Charles Truillet
+  - Olivier Julien
+  - Juan E Diaz
+  - Max A Horlbeck
+  - Gordon Whiteley
+  - Josip Blonder
+  - Jonathan S Weissman
+  - Sourav Bandyopadhyay
+  - Michael J Evans
+  - James A Wells
+  publisher: eLife
+  date: '2018-01-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29359686
+  orcid: 0000-0002-3875-871X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:28985505
+  title: Combined CRISPRi/a-Based Chemical Genetic Screens Reveal that Rigosertib
+    Is a Microtubule-Destabilizing Agent.
+  authors:
+  - Marco Jost
+  - Yuwen Chen
+  - Luke A Gilbert
+  - Max A Horlbeck
+  - Lenno Krenning
+  - "Gr\xE9gory Menchon"
+  - Ankit Rai
+  - Min Y Cho
+  - Jacob J Stern
+  - Andrea E Prota
+  - Martin Kampmann
+  - Anna Akhmanova
+  - Michel O Steinmetz
+  - Marvin E Tanenbaum
+  - Jonathan S Weissman
+  publisher: Molecular cell
+  date: '2017-10-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28985505
+  orcid: 0000-0002-3875-871X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:27984733
+  title: A Multiplexed Single-Cell CRISPR Screening Platform Enables Systematic Dissection
+    of the Unfolded Protein Response.
+  authors:
+  - Britt Adamson
+  - Thomas M Norman
+  - Marco Jost
+  - Min Y Cho
+  - "James K Nu\xF1ez"
+  - Yuwen Chen
+  - Jacqueline E Villalta
+  - Luke A Gilbert
+  - Max A Horlbeck
+  - Marco Y Hein
+  - Ryan A Pak
+  - Andrew N Gray
+  - Carol A Gross
+  - Atray Dixit
+  - Oren Parnas
+  - Aviv Regev
+  - Jonathan S Weissman
+  publisher: Cell
+  date: '2016-12-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27984733
+  orcid: 0000-0002-3875-871X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:27980086
+  title: CRISPRi-based genome-scale identification of functional long noncoding RNA
+    loci in human cells.
+  authors:
+  - S John Liu
+  - Max A Horlbeck
+  - Seung Woo Cho
+  - Harjus S Birk
+  - Martina Malatesta
+  - Daniel He
+  - Frank J Attenello
+  - Jacqueline E Villalta
+  - Min Y Cho
+  - Yuwen Chen
+  - Mohammad A Mandegar
+  - Michael P Olvera
+  - Luke A Gilbert
+  - Bruce R Conklin
+  - Howard Y Chang
+  - Jonathan S Weissman
+  - Daniel A Lim
+  publisher: Science (New York, N.Y.)
+  date: '2016-12-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27980086
+  orcid: 0000-0002-3875-871X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:27661255
+  title: Compact and highly active next-generation libraries for CRISPR-mediated gene
+    repression and activation.
+  authors:
+  - Max A Horlbeck
+  - Luke A Gilbert
+  - Jacqueline E Villalta
+  - Britt Adamson
+  - Ryan A Pak
+  - Yuwen Chen
+  - Alexander P Fields
+  - Chong Yon Park
+  - Jacob E Corn
+  - Martin Kampmann
+  - Jonathan S Weissman
+  publisher: eLife
+  date: '2016-09-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27661255
+  orcid: 0000-0002-3875-871X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:27325776
+  title: Versatile in vivo regulation of tumor phenotypes by dCas9-mediated transcriptional
+    perturbation.
+  authors:
+  - Christian J Braun
+  - Peter M Bruno
+  - Max A Horlbeck
+  - Luke A Gilbert
+  - Jonathan S Weissman
+  - Michael T Hemann
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '2016-06-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27325776
+  orcid: 0000-0002-3875-871X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:27081004
+  title: Single-cell analysis of long non-coding RNAs in the developing human neocortex.
+  authors:
+  - Siyuan John Liu
+  - Tomasz J Nowakowski
+  - Alex A Pollen
+  - Jan H Lui
+  - Max A Horlbeck
+  - Frank J Attenello
+  - Daniel He
+  - Jonathan S Weissman
+  - Arnold R Kriegstein
+  - Aaron A Diaz
+  - Daniel A Lim
+  publisher: Genome biology
+  date: '2016-04-14'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27081004
+  orcid: 0000-0002-3875-871X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:26971820
+  title: CRISPR Interference Efficiently Induces Specific and Reversible Gene Silencing
+    in Human iPSCs.
+  authors:
+  - Mohammad A Mandegar
+  - Nathaniel Huebsch
+  - Ekaterina B Frolov
+  - Edward Shin
+  - Annie Truong
+  - Michael P Olvera
+  - Amanda H Chan
+  - Yuichiro Miyaoka
+  - Kristin Holmes
+  - C Ian Spencer
+  - Luke M Judge
+  - David E Gordon
+  - Tilde V Eskildsen
+  - Jacqueline E Villalta
+  - Max A Horlbeck
+  - Luke A Gilbert
+  - Nevan J Krogan
+  - "S\xF8ren P Sheikh"
+  - Jonathan S Weissman
+  - Lei S Qi
+  - Po-Lin So
+  - Bruce R Conklin
+  publisher: Cell stem cell
+  date: '2016-03-10'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26971820
+  orcid: 0000-0002-3875-871X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:27018887
+  title: Parallel shRNA and CRISPR-Cas9 screens enable antiviral drug target identification.
+  authors:
+  - Richard M Deans
+  - David W Morgens
+  - "Ay\u015Fe \xD6kesli"
+  - Sirika Pillay
+  - Max A Horlbeck
+  - Martin Kampmann
+  - Luke A Gilbert
+  - Amy Li
+  - Roberto Mateo
+  - Mark Smith
+  - Jeffrey S Glenn
+  - Jan E Carette
+  - Chaitan Khosla
+  - Michael C Bassik
+  publisher: Nature chemical biology
+  date: '2016-03-28'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27018887
+  orcid: 0000-0002-3875-871X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:26080438
+  title: Next-generation libraries for robust RNA interference-based genome-wide screens.
+  authors:
+  - Martin Kampmann
+  - Max A Horlbeck
+  - Yuwen Chen
+  - Jordan C Tsai
+  - Michael C Bassik
+  - Luke A Gilbert
+  - Jacqueline E Villalta
+  - S Chul Kwon
+  - Hyeshik Chang
+  - V Narry Kim
+  - Jonathan S Weissman
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '2015-06-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26080438
+  orcid: 0000-0002-3875-871X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:25307932
+  title: Genome-Scale CRISPR-Mediated Control of Gene Repression and Activation.
+  authors:
+  - Luke A Gilbert
+  - Max A Horlbeck
+  - Britt Adamson
+  - Jacqueline E Villalta
+  - Yuwen Chen
+  - Evan H Whitehead
+  - Carla Guimaraes
+  - Barbara Panning
+  - Hidde L Ploegh
+  - Michael C Bassik
+  - Lei S Qi
+  - Martin Kampmann
+  - Jonathan S Weissman
+  publisher: Cell
+  date: '2014-10-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25307932
+  orcid: 0000-0002-3875-871X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:23394947
+  title: A systematic mammalian genetic interaction map reveals pathways underlying
+    ricin susceptibility.
+  authors:
+  - Michael C Bassik
+  - Martin Kampmann
+  - Robert Jan Lebbink
+  - Shuyi Wang
+  - Marco Y Hein
+  - Ina Poser
+  - Jimena Weibezahn
+  - Max A Horlbeck
+  - Siyuan Chen
+  - Matthias Mann
+  - Anthony A Hyman
+  - Emily M Leproust
+  - Michael T McManus
+  - Jonathan S Weissman
+  publisher: Cell
+  date: '2013-02-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23394947
+  orcid: 0000-0002-3875-871X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:22300850
+  title: ER cargo properties specify a requirement for COPII coat rigidity mediated
+    by Sec13p.
+  authors:
+  - Alenka Copic
+  - Catherine F Latham
+  - Max A Horlbeck
+  - Jennifer G D'Arcangelo
+  - Elizabeth A Miller
+  publisher: Science (New York, N.Y.)
+  date: '2012-02-02'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22300850
+  orcid: 0000-0002-3875-871X
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -184,9 +667,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -203,21 +683,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
