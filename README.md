@@ -5,6 +5,6 @@
 
   # horlbeck-lab's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[horlbeck-lab.github.io/horlbeck-lab-website](https://horlbeck-lab.github.io/horlbeck-lab-website)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
