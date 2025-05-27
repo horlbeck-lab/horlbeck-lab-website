@@ -1,5 +1,84 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pmid:39843737
+  title: Multiscale footprints reveal the organization of cis-regulatory elements.
+  authors:
+  - Yan Hu
+  - Max A Horlbeck
+  - Ruochi Zhang
+  - Sai Ma
+  - Rojesh Shrestha
+  - Vinay K Kartha
+  - Fabiana M Duarte
+  - Conrad Hock
+  - Rachel E Savage
+  - Ajay Labade
+  - Heidi Kletzien
+  - Alia Meliki
+  - Andrew Castillo
+  - Neva C Durand
+  - Eugenio Mattei
+  - Lauren J Anderson
+  - Tristan Tay
+  - Andrew S Earl
+  - Noam Shoresh
+  - Charles B Epstein
+  - Amy J Wagers
+  - Jason D Buenrostro
+  publisher: Nature
+  date: '2025-01-22'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39843737
+  orcid: 0000-0002-3875-871X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:39746677
+  title: Novel Phenotypes and Genotype-Phenotype Correlations in a Large Clinical
+    Cohort of Patients With Kleefstra Syndrome.
+  authors:
+  - "Zo\xEB J Frazier"
+  - Seyda Kilic
+  - Hailey Osika
+  - Alisa Mo
+  - Meg Quinn
+  - Sonia Ballal
+  - Tamar Katz
+  - A Eliot Shearer
+  - Max A Horlbeck
+  - Lynn S Pais
+  - Kira A Dies
+  - Anne O'Donnell-Luria
+  - Joe Kossowsky
+  - Jonathan O Lipton
+  - Tjitske Kleefstra
+  - Siddharth Srivastava
+  publisher: Clinical genetics
+  date: '2025-01-02'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39746677
+  orcid: 0000-0002-3875-871X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:38781216
+  title: CRISPRi screens identify the lncRNA,
+  authors:
+  - Haley Halasz
+  - Eric Malekos
+  - Sergio Covarrubias
+  - Samira Yitiz
+  - Christy Montano
+  - Lisa Sudek
+  - Sol Katzman
+  - S John Liu
+  - Max A Horlbeck
+  - Leila Namvar
+  - Jonathan S Weissman
+  - Susan Carpenter
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '2024-05-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38781216
+  orcid: 0000-0002-3875-871X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: ppr:PPR667653
   title: FET fusion oncoproteins disrupt physiologic DNA repair networks and induce
     ATR synthetic lethality in cance
