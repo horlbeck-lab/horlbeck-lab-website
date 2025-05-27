@@ -1,9 +1,9 @@
 ---
 ---
 
-# horlbeck-lab's Website
+# Dissecting the architecture of chromatin regulation in human disease
 
-An engaging 1-3 sentence description of your lab.
+We study **Chromatinopathies**, a large class of genetic disorders in which disruption in chromatin modifying machinery leads to developmental delay and intellectual disability. Using high-throughput genetic screening and epigenomic readouts, we seek to understand how chromatin regulation shapes cell fate decisions and identify paths to treatment for these disorders.
 
 {% include section.html %}
 
