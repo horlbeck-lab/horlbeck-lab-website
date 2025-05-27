@@ -2,9 +2,9 @@
   description: A new computational method for dissecting transcription factor binding and nucleosome binding from bulk and single-cell ATAC-seq data.
   image: https://www.nature.com/articles/s41586-024-08443-4/figures/2
   authors:
-    - Yan Hu*
-    - Max A Horlbeck*
-    - Ruochi Zhang*
+    - Yan Hu\*
+    - Max A Horlbeck\*
+    - Ruochi Zhang\*
     - Sai Ma
     - Rojesh Shrestha
     - Vinay K Kartha
@@ -29,3 +29,18 @@
       link: 1882204052114792466
     - type: source
       link: https://github.com/buenrostrolab/scPrinter
+
+- id: pmid:31395745
+  description: Mapping genetic interactions using CRISPRa and using single-cell RNA sequencing as a rich phenotypic readout.
+  authors:
+  - Thomas M Norman\*
+  - Max A Horlbeck\*
+  - Joseph M Replogle
+  - Alex Y Ge
+  - Albert Xu
+  - Marco Jost
+  - Luke A Gilbert
+  - Jonathan S Weissman
+  buttons:
+    - type: source
+      link: https://github.com/thomasmaxwellnorman/Perturbseq_GI
