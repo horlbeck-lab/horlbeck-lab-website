@@ -119,6 +119,24 @@
   orcid: 0000-0002-3875-871X
   plugin: orcid.py
   file: orcid.yaml
+- id: pmid:33465779
+  title: High-content imaging-based pooled CRISPR screens in mammalian cells.
+  authors:
+  - Xiaowei Yan
+  - Nico Stuurman
+  - Susana A Ribeiro
+  - Marvin E Tanenbaum
+  - Max A Horlbeck
+  - Christina R Liem
+  - Marco Jost
+  - Jonathan S Weissman
+  - Ronald D Vale
+  publisher: The Journal of cell biology
+  date: '2021-02-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33465779
+  orcid: 0000-0002-3875-871X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: pmid:33326085
   title: Genome-Scale Perturbation of Long Noncoding RNA Expression Using CRISPR Interference.
   authors:
@@ -184,6 +202,20 @@
   publisher: Genome biology
   date: '2020-03-31'
   link: https://www.ncbi.nlm.nih.gov/pubmed/32234056
+  orcid: 0000-0002-3875-871X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:32094656
+  title: Fitness effects of CRISPR/Cas9-targeting of long noncoding RNA genes.
+  authors:
+  - Max A Horlbeck
+  - S John Liu
+  - Howard Y Chang
+  - Daniel A Lim
+  - Jonathan S Weissman
+  publisher: Nature biotechnology
+  date: '2020-02-24'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32094656
   orcid: 0000-0002-3875-871X
   plugin: orcid.py
   file: orcid.yaml
@@ -266,6 +298,29 @@
   publisher: PLoS genetics
   date: '2019-03-15'
   link: https://www.ncbi.nlm.nih.gov/pubmed/30875366
+  orcid: 0000-0002-3875-871X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:30148842
+  title: A high-throughput screen of real-time ATP levels in individual cells reveals
+    mechanisms of energy failure.
+  authors:
+  - Bryce A Mendelsohn
+  - Neal K Bennett
+  - Maxwell A Darch
+  - Katharine Yu
+  - Mai K Nguyen
+  - Daniela Pucciarelli
+  - Maxine Nelson
+  - Max A Horlbeck
+  - Luke A Gilbert
+  - William Hyun
+  - Martin Kampmann
+  - Jean L Nakamura
+  - Ken Nakamura
+  publisher: PLoS biology
+  date: '2018-08-27'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30148842
   orcid: 0000-0002-3875-871X
   plugin: orcid.py
   file: orcid.yaml
@@ -546,6 +601,24 @@
   publisher: Cell stem cell
   date: '2016-03-10'
   link: https://www.ncbi.nlm.nih.gov/pubmed/26971820
+  orcid: 0000-0002-3875-871X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:26987018
+  title: Nucleosomes impede Cas9 access to DNA in vivo and in vitro.
+  authors:
+  - Max A Horlbeck
+  - Lea B Witkowsky
+  - Benjamin Guglielmi
+  - Joseph M Replogle
+  - Luke A Gilbert
+  - Jacqueline E Villalta
+  - Sharon E Torigoe
+  - Robert Tjian
+  - Jonathan S Weissman
+  publisher: eLife
+  date: '2016-03-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26987018
   orcid: 0000-0002-3875-871X
   plugin: orcid.py
   file: orcid.yaml
