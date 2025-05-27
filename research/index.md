@@ -11,7 +11,7 @@ nav:
 
 ## Highlighted
 
-{% include citation.html lookup="Single-cell multi-scale footprinting" style="rich" %}
+{% include citation.html lookup="Multiscale footprints reveal" style="rich" %}
 
 {% include section.html %}
 
