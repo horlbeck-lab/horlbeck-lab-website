@@ -3,9 +3,9 @@
 - id: pmid:39843737
   title: Multiscale footprints reveal the organization of cis-regulatory elements.
   authors:
-  - Yan Hu
-  - Max A Horlbeck
-  - Ruochi Zhang
+  - Yan Hu*
+  - Max A Horlbeck*
+  - Ruochi Zhang*
   - Sai Ma
   - Rojesh Shrestha
   - Vinay K Kartha
@@ -24,13 +24,22 @@
   - Noam Shoresh
   - Charles B Epstein
   - Amy J Wagers
-  - Jason D Buenrostro
+  - Jason D Buenrostro^
   publisher: Nature
   date: '2025-01-22'
   link: https://www.ncbi.nlm.nih.gov/pubmed/39843737
   orcid: 0000-0002-3875-871X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-highlights.yaml
+  type: paper
+  description: A new computational method for dissecting transcription factor binding
+    and nucleosome binding from bulk and single-cell ATAC-seq data.
+  image: https://www.nature.com/articles/s41586-024-08443-4/figures/2
+  buttons:
+  - type: twitter
+    link: https://x.com/YanHu41082612/status/1882204052114792466
+  - type: source
+    link: https://github.com/buenrostrolab/scPrinter
 - id: pmid:39746677
   title: Novel Phenotypes and Genotype-Phenotype Correlations in a Large Clinical
     Cohort of Patients With Kleefstra Syndrome.
