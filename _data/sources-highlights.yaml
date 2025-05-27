@@ -1,5 +1,4 @@
 - id: pmid:39843737
-  type: paper
   description: A new computational method for dissecting transcription factor binding and nucleosome binding from bulk and single-cell ATAC-seq data.
   image: https://www.nature.com/articles/s41586-024-08443-4/figures/2
   authors:
@@ -27,6 +26,6 @@
     - Jason D Buenrostro^
   buttons:
     - type: twitter
-      link: https://x.com/YanHu41082612/status/1882204052114792466
+      link: 1882204052114792466
     - type: source
       link: https://github.com/buenrostrolab/scPrinter
