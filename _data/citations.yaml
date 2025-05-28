@@ -33,7 +33,7 @@
   file: sources-highlights.yaml
   description: A new computational method for dissecting transcription factor binding
     and nucleosome binding from bulk and single-cell ATAC-seq data.
-  image: https://www.nature.com/articles/s41586-024-08443-4/figures/2
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-024-08443-4/MediaObjects/41586_2024_8443_Fig2_HTML.png
   buttons:
   - type: twitter
     link: 1882204052114792466
@@ -105,36 +105,6 @@
   publisher: ''
   date: '2023-01-01'
   link: https://doi.org/10.21203/rs.3.rs-2869150/v1
-  orcid: 0000-0002-3875-871X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: ppr:PPR637933
-  title: Single-cell multi-scale footprinting reveals the modular organization of
-    DNA regulatory element
-  authors:
-  - Yan Hu
-  - Sai Ma
-  - Vinay Kartha
-  - Fabiana Duarte
-  - Max Horlbeck
-  - Ruochi Zhang
-  - Rojesh Shrestha
-  - Ajay Labade
-  - Heidi Kletzien
-  - Alia Meliki
-  - Andrew Castillo
-  - Neva Durand
-  - Eugenio Mattei
-  - Lauren Anderson
-  - Tristan Tay
-  - Andrew Earl
-  - Noam Shoresh
-  - Charles Epstein
-  - Amy Wagers
-  - Jason Buenrostro
-  publisher: ''
-  date: '2023-01-01'
-  link: https://doi.org/10.1101/2023.03.28.533945
   orcid: 0000-0002-3875-871X
   plugin: orcid.py
   file: orcid.yaml
@@ -365,7 +335,7 @@
   - Albert Xu
   - Marco Jost
   - Luke A Gilbert
-  - Jonathan S Weissman
+  - Jonathan S Weissman^
   publisher: Science (New York, N.Y.)
   date: '2019-08-08'
   link: https://www.ncbi.nlm.nih.gov/pubmed/31395745
@@ -374,6 +344,7 @@
   file: sources-highlights.yaml
   description: Mapping genetic interactions using CRISPRa and using single-cell RNA
     sequencing as a rich phenotypic readout.
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/20f8/6746554/33c084a7c77c/nihms-1045467-f0002.jpg
   buttons:
   - type: source
     link: https://github.com/thomasmaxwellnorman/Perturbseq_GI
@@ -419,7 +390,7 @@
 - id: pmid:30033366
   title: Mapping the Genetic Landscape of Human Cells.
   authors:
-  - Max A Horlbeck
+  - Max A Horlbeck\*
   - Albert Xu
   - Min Wang
   - Neal K Bennett
@@ -431,14 +402,17 @@
   - Tim R Peterson
   - Ken Nakamura
   - Michael A Fischbach
-  - Jonathan S Weissman
-  - Luke A Gilbert
+  - Jonathan S Weissman^
+  - Luke A Gilbert^
   publisher: Cell
   date: '2018-07-19'
   link: https://www.ncbi.nlm.nih.gov/pubmed/30033366
   orcid: 0000-0002-3875-871X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-highlights.yaml
+  description: Dual CRISPRi targeting to map genetic interactions among genes required
+    for cell fitness.
+  image: https://www.cell.com/cms/10.1016/j.cell.2018.06.010/asset/e276dadc-8606-4f15-8c23-01bcdba57a0d/main.assets/fx1.jpg
 - id: pmid:29091290
   title: Combinatorial genetics in liver repopulation and carcinogenesis with a in
     vivo CRISPR activation platform.
