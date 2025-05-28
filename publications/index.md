@@ -11,9 +11,13 @@ nav:
 
 ## Highlighted
 
-{% include citation.html lookup="Multiscale footprints reveal" style="rich" %}
+#### \* (co-) first author, ^ (co-) senior author
+
+{% include citation.html lookup="pmid:39843737" style="rich" %}
 
 {% include citation.html lookup="pmid:31395745" style="rich" %}
+
+{% include citation.html lookup="pmid:30033366" style="rich" %}
 
 {% include section.html %}
 
