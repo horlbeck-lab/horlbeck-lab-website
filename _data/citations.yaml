@@ -33,12 +33,11 @@
   file: sources-highlights.yaml
   description: A new computational method for dissecting transcription factor binding
     and nucleosome binding from bulk and single-cell ATAC-seq data.
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-024-08443-4/MediaObjects/41586_2024_8443_Fig2_HTML.png
+  image: https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=11839466_41586_2024_8443_Fig2_HTML.jpg
   buttons:
   - type: twitter
     link: 1882204052114792466
-  - type: source
-    text: github
+  - type: github
     link: https://github.com/buenrostrolab/scPrinter
 - id: pmid:39746677
   title: Novel Phenotypes and Genotype-Phenotype Correlations in a Large Clinical
@@ -135,7 +134,7 @@
   title: Dual genome-wide coding and lncRNA screens in neural induction of induced
     pluripotent stem cells.
   authors:
-  - David Wu
+  - David Wu\*
   - Aunoy Poddar
   - Elpiniki Ninou
   - Elizabeth Hwang
@@ -149,13 +148,19 @@
   - Jonghoon Chang
   - Yin Shen
   - Jonathan S Weissman
-  - Daniel A Lim
+  - Daniel A Lim^
   publisher: Cell genomics
   date: '2022-09-14'
   link: https://www.ncbi.nlm.nih.gov/pubmed/36381608
   orcid: 0000-0002-3875-871X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-highlights.yaml
+  description: An iPSC platform for high-throughput screening of neural differentiation
+    phenotypes.
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/cb1a/9903861/af6918e11a4b/fx1.jpg
+  buttons:
+  - type: app
+    link: https://danlimlab.shinyapps.io/dualgenomewide/
 - id: pmid:34034859
   title: Genome-wide CRISPRi screening identifies OCIAD1 as a prohibitin client and
     regulatory determinant of mitochondrial Complex III assembly in human cells.
@@ -347,8 +352,7 @@
     sequencing as a rich phenotypic readout.
   image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/20f8/6746554/33c084a7c77c/nihms-1045467-f0002.jpg
   buttons:
-  - type: source
-    text: github
+  - type: github
     link: https://github.com/thomasmaxwellnorman/Perturbseq_GI
 - id: pmid:30875366
   title: Cellular response to small molecules that selectively stall protein synthesis
@@ -416,8 +420,7 @@
     for cell fitness.
   image: https://www.cell.com/cms/10.1016/j.cell.2018.06.010/asset/e276dadc-8606-4f15-8c23-01bcdba57a0d/main.assets/fx1.jpg
   buttons:
-  - type: source
-    text: github
+  - type: github
     link: https://github.com/mhorlbeck/GImap_tools
 - id: pmid:29091290
   title: Combinatorial genetics in liver repopulation and carcinogenesis with a in
@@ -563,8 +566,8 @@
   title: CRISPRi-based genome-scale identification of functional long noncoding RNA
     loci in human cells.
   authors:
-  - S John Liu
-  - Max A Horlbeck
+  - S John Liu\*
+  - Max A Horlbeck\*
   - Seung Woo Cho
   - Harjus S Birk
   - Martina Malatesta
@@ -578,19 +581,22 @@
   - Luke A Gilbert
   - Bruce R Conklin
   - Howard Y Chang
-  - Jonathan S Weissman
-  - Daniel A Lim
+  - Jonathan S Weissman^
+  - Daniel A Lim^
   publisher: Science (New York, N.Y.)
   date: '2016-12-15'
   link: https://www.ncbi.nlm.nih.gov/pubmed/27980086
   orcid: 0000-0002-3875-871X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-highlights.yaml
+  description: Functional screening discovers cellular phenotypes for hundreds of
+    new lncRNA-expressing loci.
+  image: https://www.science.org/cms/10.1126/science.aah7111/asset/393972e1-bcaf-4b95-ba24-d2f274b97443/assets/graphic/355_aah7111_fa.jpeg
 - id: pmid:27661255
   title: Compact and highly active next-generation libraries for CRISPR-mediated gene
     repression and activation.
   authors:
-  - Max A Horlbeck
+  - Max A Horlbeck\*
   - Luke A Gilbert
   - Jacqueline E Villalta
   - Britt Adamson
@@ -600,13 +606,18 @@
   - Chong Yon Park
   - Jacob E Corn
   - Martin Kampmann
-  - Jonathan S Weissman
+  - Jonathan S Weissman^
   publisher: eLife
   date: '2016-09-23'
   link: https://www.ncbi.nlm.nih.gov/pubmed/27661255
   orcid: 0000-0002-3875-871X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-highlights.yaml
+  description: Next-generation libraries for CRISPRi and CRISPRa in humans and mice.
+  image: https://iiif.elifesciences.org/lax/19760%2Felife-19760-fig3-v2.tif
+  buttons:
+  - type: github
+    link: https://github.com/mhorlbeck/CRISPRiaDesign
 - id: pmid:27325776
   title: Versatile in vivo regulation of tumor phenotypes by dCas9-mediated transcriptional
     perturbation.
@@ -679,21 +690,22 @@
 - id: pmid:26987018
   title: Nucleosomes impede Cas9 access to DNA in vivo and in vitro.
   authors:
-  - Max A Horlbeck
-  - Lea B Witkowsky
+  - Max A Horlbeck\*
+  - Lea B Witkowsky\*
   - Benjamin Guglielmi
   - Joseph M Replogle
   - Luke A Gilbert
   - Jacqueline E Villalta
   - Sharon E Torigoe
-  - Robert Tjian
-  - Jonathan S Weissman
+  - Robert Tjian^
+  - Jonathan S Weissman^
   publisher: eLife
   date: '2016-03-17'
   link: https://www.ncbi.nlm.nih.gov/pubmed/26987018
   orcid: 0000-0002-3875-871X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-highlights.yaml
+  image: https://pbs.twimg.com/media/CeQKNBGVAAAeaf0?format=jpg&name=900x900
 - id: pmid:27018887
   title: Parallel shRNA and CRISPR-Cas9 screens enable antiviral drug target identification.
   authors:
@@ -741,8 +753,8 @@
 - id: pmid:25307932
   title: Genome-Scale CRISPR-Mediated Control of Gene Repression and Activation.
   authors:
-  - Luke A Gilbert
-  - Max A Horlbeck
+  - Luke A Gilbert\*
+  - Max A Horlbeck\*
   - Britt Adamson
   - Jacqueline E Villalta
   - Yuwen Chen
@@ -753,13 +765,18 @@
   - Michael C Bassik
   - Lei S Qi
   - Martin Kampmann
-  - Jonathan S Weissman
+  - Jonathan S Weissman^
   publisher: Cell
   date: '2014-10-09'
   link: https://www.ncbi.nlm.nih.gov/pubmed/25307932
   orcid: 0000-0002-3875-871X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-highlights.yaml
+  description: Generation of the first genome-scale CRISPRi and CRISPRa libraries.
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0092867414011787-fx1.jpg
+  buttons:
+  - type: github
+    link: https://github.com/mhorlbeck/ScreenProcessing
 - id: pmid:23394947
   title: A systematic mammalian genetic interaction map reveals pathways underlying
     ricin susceptibility.
@@ -799,61 +816,3 @@
   orcid: 0000-0002-3875-871X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
-  authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  plugin: sources.py
-  file: sources.yaml
