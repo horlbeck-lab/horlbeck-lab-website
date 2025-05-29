@@ -38,6 +38,7 @@
   - type: twitter
     link: 1882204052114792466
   - type: source
+    text: github
     link: https://github.com/buenrostrolab/scPrinter
 - id: pmid:39746677
   title: Novel Phenotypes and Genotype-Phenotype Correlations in a Large Clinical
@@ -347,6 +348,7 @@
   image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/20f8/6746554/33c084a7c77c/nihms-1045467-f0002.jpg
   buttons:
   - type: source
+    text: github
     link: https://github.com/thomasmaxwellnorman/Perturbseq_GI
 - id: pmid:30875366
   title: Cellular response to small molecules that selectively stall protein synthesis
@@ -413,6 +415,10 @@
   description: Dual CRISPRi targeting to map genetic interactions among genes required
     for cell fitness.
   image: https://www.cell.com/cms/10.1016/j.cell.2018.06.010/asset/e276dadc-8606-4f15-8c23-01bcdba57a0d/main.assets/fx1.jpg
+  buttons:
+  - type: source
+    text: github
+    link: https://github.com/mhorlbeck/GImap_tools
 - id: pmid:29091290
   title: Combinatorial genetics in liver repopulation and carcinogenesis with a in
     vivo CRISPR activation platform.
