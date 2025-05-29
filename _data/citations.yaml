@@ -33,7 +33,7 @@
   file: sources-highlights.yaml
   description: A new computational method for dissecting transcription factor binding
     and nucleosome binding from bulk and single-cell ATAC-seq data.
-  image: https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=11839466_41586_2024_8443_Fig2_HTML.jpg
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-024-08443-4/MediaObjects/41586_2024_8443_Fig2_HTML.png?as=webp
   buttons:
   - type: twitter
     link: 1882204052114792466
@@ -159,7 +159,8 @@
     phenotypes.
   image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/cb1a/9903861/af6918e11a4b/fx1.jpg
   buttons:
-  - type: app
+  - type: data
+    text: ShinyApp
     link: https://danlimlab.shinyapps.io/dualgenomewide/
 - id: pmid:34034859
   title: Genome-wide CRISPRi screening identifies OCIAD1 as a prohibitin client and
@@ -614,7 +615,7 @@
   plugin: sources.py
   file: sources-highlights.yaml
   description: Next-generation libraries for CRISPRi and CRISPRa in humans and mice.
-  image: https://iiif.elifesciences.org/lax/19760%2Felife-19760-fig3-v2.tif
+  image: https://iiif.elifesciences.org/lax/19760%2Felife-19760-fig3-v2.tif/full/,1500/0/default.jpg
   buttons:
   - type: github
     link: https://github.com/mhorlbeck/CRISPRiaDesign
