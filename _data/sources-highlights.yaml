@@ -28,6 +28,7 @@
     - type: twitter
       link: 1882204052114792466
     - type: source
+      text: github
       link: https://github.com/buenrostrolab/scPrinter
 
 - id: pmid:31395745
@@ -44,6 +45,7 @@
   - Jonathan S Weissman^
   buttons:
     - type: source
+      text: github
       link: https://github.com/thomasmaxwellnorman/Perturbseq_GI
 
 
@@ -65,3 +67,7 @@
   - Michael A Fischbach
   - Jonathan S Weissman^
   - Luke A Gilbert^ 
+  buttons:
+    - type: source
+      text: github
+      link: https://github.com/mhorlbeck/GImap_tools
