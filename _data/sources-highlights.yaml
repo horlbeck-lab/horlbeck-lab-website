@@ -1,6 +1,6 @@
 - id: pmid:39843737
   description: A new computational method for dissecting transcription factor binding and nucleosome binding from bulk and single-cell ATAC-seq data.
-  image: https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=11839466_41586_2024_8443_Fig2_HTML.jpg
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-024-08443-4/MediaObjects/41586_2024_8443_Fig2_HTML.png?as=webp
   authors:
     - Yan Hu\*
     - Max A Horlbeck\*
@@ -111,7 +111,8 @@
   - Jonathan S Weissman
   - Daniel A Lim^
   buttons:
-    - type: app
+    - type: data
+      text: ShinyApp
       link: https://danlimlab.shinyapps.io/dualgenomewide/
 
 
@@ -151,7 +152,7 @@
 
 - id: pmid:27661255
   description: Next-generation libraries for CRISPRi and CRISPRa in humans and mice.
-  image: https://iiif.elifesciences.org/lax/19760%2Felife-19760-fig3-v2.tif
+  image: https://iiif.elifesciences.org/lax/19760%2Felife-19760-fig3-v2.tif/full/,1500/0/default.jpg
   authors:
   - Max A Horlbeck\*
   - Luke A Gilbert
