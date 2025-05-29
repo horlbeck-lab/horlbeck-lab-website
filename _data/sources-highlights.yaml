@@ -1,6 +1,6 @@
 - id: pmid:39843737
   description: A new computational method for dissecting transcription factor binding and nucleosome binding from bulk and single-cell ATAC-seq data.
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-024-08443-4/MediaObjects/41586_2024_8443_Fig2_HTML.png
+  image: https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=11839466_41586_2024_8443_Fig2_HTML.jpg
   authors:
     - Yan Hu\*
     - Max A Horlbeck\*
@@ -27,8 +27,7 @@
   buttons:
     - type: twitter
       link: 1882204052114792466
-    - type: source
-      text: github
+    - type: github
       link: https://github.com/buenrostrolab/scPrinter
 
 - id: pmid:31395745
@@ -44,8 +43,7 @@
   - Luke A Gilbert
   - Jonathan S Weissman^
   buttons:
-    - type: source
-      text: github
+    - type: github
       link: https://github.com/thomasmaxwellnorman/Perturbseq_GI
 
 
@@ -68,6 +66,104 @@
   - Jonathan S Weissman^
   - Luke A Gilbert^ 
   buttons:
-    - type: source
-      text: github
+    - type: github
       link: https://github.com/mhorlbeck/GImap_tools
+
+- id: pmid:27980086
+  description: Functional screening discovers cellular phenotypes for hundreds of new lncRNA-expressing loci.
+  image: https://www.science.org/cms/10.1126/science.aah7111/asset/393972e1-bcaf-4b95-ba24-d2f274b97443/assets/graphic/355_aah7111_fa.jpeg
+  authors:
+  - S John Liu\*
+  - Max A Horlbeck\*
+  - Seung Woo Cho
+  - Harjus S Birk
+  - Martina Malatesta
+  - Daniel He
+  - Frank J Attenello
+  - Jacqueline E Villalta
+  - Min Y Cho
+  - Yuwen Chen
+  - Mohammad A Mandegar
+  - Michael P Olvera
+  - Luke A Gilbert
+  - Bruce R Conklin
+  - Howard Y Chang
+  - Jonathan S Weissman^
+  - Daniel A Lim^
+
+- id: pmid:36381608
+  description: An iPSC platform for high-throughput screening of neural differentiation phenotypes.
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/cb1a/9903861/af6918e11a4b/fx1.jpg
+  authors:
+  - David Wu\*
+  - Aunoy Poddar
+  - Elpiniki Ninou
+  - Elizabeth Hwang
+  - Mitchel A Cole
+  - S John Liu
+  - Max A Horlbeck
+  - Jin Chen
+  - Joseph M Replogle
+  - Giovanni A Carosso
+  - Nicolas W L Eng
+  - Jonghoon Chang
+  - Yin Shen
+  - Jonathan S Weissman
+  - Daniel A Lim^
+  buttons:
+    - type: app
+      link: https://danlimlab.shinyapps.io/dualgenomewide/
+
+
+- id: pmid:25307932
+  description: Generation of the first genome-scale CRISPRi and CRISPRa libraries.
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0092867414011787-fx1.jpg
+  authors:
+  - Luke A Gilbert\*
+  - Max A Horlbeck\*
+  - Britt Adamson
+  - Jacqueline E Villalta
+  - Yuwen Chen
+  - Evan H Whitehead
+  - Carla Guimaraes
+  - Barbara Panning
+  - Hidde L Ploegh
+  - Michael C Bassik
+  - Lei S Qi
+  - Martin Kampmann
+  - Jonathan S Weissman^
+  buttons:
+    - type: github
+      link: https://github.com/mhorlbeck/ScreenProcessing
+
+- id: pmid:26987018
+  image: https://pbs.twimg.com/media/CeQKNBGVAAAeaf0?format=jpg&name=900x900
+  authors:
+  - Max A Horlbeck\*
+  - Lea B Witkowsky\*
+  - Benjamin Guglielmi
+  - Joseph M Replogle
+  - Luke A Gilbert
+  - Jacqueline E Villalta
+  - Sharon E Torigoe
+  - Robert Tjian^
+  - Jonathan S Weissman^
+
+- id: pmid:27661255
+  description: Next-generation libraries for CRISPRi and CRISPRa in humans and mice.
+  image: https://iiif.elifesciences.org/lax/19760%2Felife-19760-fig3-v2.tif
+  authors:
+  - Max A Horlbeck\*
+  - Luke A Gilbert
+  - Jacqueline E Villalta
+  - Britt Adamson
+  - Ryan A Pak
+  - Yuwen Chen
+  - Alexander P Fields
+  - Chong Yon Park
+  - Jacob E Corn
+  - Martin Kampmann
+  - Jonathan S Weissman^
+  buttons:
+    - type: github
+      link: https://github.com/mhorlbeck/CRISPRiaDesign
