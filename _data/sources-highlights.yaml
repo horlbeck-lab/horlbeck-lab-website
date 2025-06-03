@@ -90,6 +90,12 @@
   - Howard Y Chang
   - Jonathan S Weissman^
   - Daniel A Lim^
+  buttons:
+    - type: book
+      text: Libraries (addgene)
+      tooltip: pooled library available on addgene
+      link: https://www.addgene.org/pooled-library/weissman-human-crispri-noncoding-subpools/
+
 
 - id: pmid:36381608
   description: An iPSC platform for high-throughput screening of neural differentiation phenotypes.
@@ -113,6 +119,7 @@
   buttons:
     - type: data
       text: ShinyApp
+      tooltip: ShinyApp
       link: https://danlimlab.shinyapps.io/dualgenomewide/
 
 
@@ -168,3 +175,11 @@
   buttons:
     - type: github
       link: https://github.com/mhorlbeck/CRISPRiaDesign
+    - type: book
+      text: hCRISPRi-v2 library (addgene)
+      tooltip: pooled library available on addgene
+      link: https://www.addgene.org/pooled-library/weissman-human-crispri-v2/
+    - type: book
+      text: hCRISPRa-v2 library (addgene)
+      tooltip: pooled library available on addgene
+      link: https://www.addgene.org/pooled-library/weissman-human-crispra-v2/
