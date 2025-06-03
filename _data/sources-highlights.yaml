@@ -1,6 +1,6 @@
 - id: pmid:39843737
   description: A new computational method for dissecting transcription factor binding and nucleosome binding from bulk and single-cell ATAC-seq data.
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-024-08443-4/MediaObjects/41586_2024_8443_Fig2_HTML.png?as=webp
+  image: /images/paper_thumbnails/hu2025.tiff
   authors:
     - Yan Hu\*
     - Max A Horlbeck\*
@@ -152,7 +152,7 @@
 
 - id: pmid:27661255
   description: Next-generation libraries for CRISPRi and CRISPRa in humans and mice.
-  image: https://iiif.elifesciences.org/lax/19760%2Felife-19760-fig3-v2.tif/full/,1500/0/default.jpg
+  image: /images/paper_thumbnails/horlbeck2016a.jpg
   authors:
   - Max A Horlbeck\*
   - Luke A Gilbert
