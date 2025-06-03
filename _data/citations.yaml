@@ -161,6 +161,7 @@
   buttons:
   - type: data
     text: ShinyApp
+    tooltip: ShinyApp
     link: https://danlimlab.shinyapps.io/dualgenomewide/
 - id: pmid:34034859
   title: Genome-wide CRISPRi screening identifies OCIAD1 as a prohibitin client and
@@ -593,6 +594,11 @@
   description: Functional screening discovers cellular phenotypes for hundreds of
     new lncRNA-expressing loci.
   image: https://www.science.org/cms/10.1126/science.aah7111/asset/393972e1-bcaf-4b95-ba24-d2f274b97443/assets/graphic/355_aah7111_fa.jpeg
+  buttons:
+  - type: book
+    text: Libraries (addgene)
+    tooltip: pooled library available on addgene
+    link: https://www.addgene.org/pooled-library/weissman-human-crispri-noncoding-subpools/
 - id: pmid:27661255
   title: Compact and highly active next-generation libraries for CRISPR-mediated gene
     repression and activation.
@@ -619,6 +625,14 @@
   buttons:
   - type: github
     link: https://github.com/mhorlbeck/CRISPRiaDesign
+  - type: book
+    text: hCRISPRi-v2 library (addgene)
+    tooltip: pooled library available on addgene
+    link: https://www.addgene.org/pooled-library/weissman-human-crispri-v2/
+  - type: book
+    text: hCRISPRa-v2 library (addgene)
+    tooltip: pooled library available on addgene
+    link: https://www.addgene.org/pooled-library/weissman-human-crispra-v2/
 - id: pmid:27325776
   title: Versatile in vivo regulation of tumor phenotypes by dCas9-mediated transcriptional
     perturbation.
