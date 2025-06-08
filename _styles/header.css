@@ -136,10 +136,10 @@ header[data-big] .title-text {
   flex-direction: column;
   align-items: center;
   text-align: center;
-  flex-shrink: 0;
 }
 header[data-big] .title {
   font-size: var(--xxxl);
+  flex-shrink: 0;
 }
 header[data-big] .subtitle {
   font-size: var(--large);
