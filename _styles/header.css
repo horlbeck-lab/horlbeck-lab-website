@@ -138,7 +138,7 @@ header[data-big] .title-text {
   text-align: center;
 }
 header[data-big] .title {
-  font-size: 5rem;
+  font-size: var(--xxxl);
   flex-shrink: 0;
 }
 header[data-big] .subtitle {
