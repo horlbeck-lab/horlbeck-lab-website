@@ -5,73 +5,34 @@ nav:
   tooltip: Email, address, and location
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Contact
+# Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
-%}
-{%
-  include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="Email"
+  link="maximilian.horlbeck@childrens.harvard.edu"
 %}
 {%
   include button.html
   type="address"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  text="Center for Life Sciences"
+  tooltip="Our location on Google Maps"
+  link="https://maps.app.goo.gl/y1Y8sWq1CarzXqQ5A"
 %}
 
 {% include section.html %}
+# Join us!
 
-{% capture col1 %}
+### Graduate students
 
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
+Students from across the [Harvard Integrated Life Sciences](https://gsas.harvard.edu/office/harvard-integrated-life-sciences) graduate programs are welcome to apply. Please email to discuss potential rotations.
 
-{% endcapture %}
+### Postdoctoral fellows
 
-{% capture col2 %}
+Please email Max with your CV, a short description of your research experiences and interests, and contact information for 3 references.
 
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
+### Research assistants and Staff scientists
 
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 %}
-
-{% include section.html dark=true %}
-
-{% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
+Candidates should apply directly via [Boston Children's Careers](https://jobs.bostonchildrens.org/job-search-results/?keyword=genetics) if there are open positions.
