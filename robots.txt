@@ -1,1 +1,1 @@
-Sitemap: http://horlbecklab.org/sitemap.xml
+Sitemap: https://horlbecklab.org/sitemap.xml
