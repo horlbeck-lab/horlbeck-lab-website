@@ -9,7 +9,7 @@ nav:
 
 We are always looking to grow our team. We are looking for teammates of all scientific and personal backgrounds who are interested in making discoveries in basic science, improving the lives of children with rare disease, and building a collaborative and fun community. {%
   include button.html
-  link="contact"
+  link="contact/#join-us"
   text="Join us!"
   icon="fa-solid fa-arrow-right"
   flip=true

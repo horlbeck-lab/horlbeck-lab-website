@@ -6,7 +6,7 @@ nav:
 ---
 
 # Contact
-
+Our lab is located in the Center for Life Sciences building in the Longwood Medical Area. We are within the Division of Genetics and Genomics at Boston Children's Hospital and are members of the Harvard Medical School Department of Genetics.
 
 {%
   include button.html
