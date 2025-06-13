@@ -5,6 +5,8 @@
 
 We study **Chromatinopathies**, a large class of genetic disorders in which disruption in chromatin modifying machinery leads to developmental delay and intellectual disability. Using high-throughput genetic screening and epigenomic readouts, we seek to understand how chromatin regulation shapes cell fate decisions and identify paths to treatment for these disorders.
 
+We are part of the Division of Genetics and Genomics at Boston Children’s Hospital and the Harvard Medical School Department of Genetics.
+
 {% include section.html %}
 
 {% capture text %}
