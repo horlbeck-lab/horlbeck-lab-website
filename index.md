@@ -25,7 +25,7 @@ We are part of the Division of Genetics and Genomics at Boston Children’s Hosp
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research_schematic.png"
   link="research"
   title="Our Research"
   text=text

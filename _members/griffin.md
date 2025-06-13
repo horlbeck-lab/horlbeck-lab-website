@@ -2,6 +2,7 @@
 name: Griffin
 image: images/lab_members/griffin.jpg
 role: canine-support-technician
+description: Lab mascot
 affiliation: Coton de Tulear
 ---
 
