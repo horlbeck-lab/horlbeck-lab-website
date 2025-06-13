@@ -25,9 +25,7 @@ We will achieve these questions with functional genomics and epigenomics approac
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
+  image="images/research_schematic.png"
   text=text
 %}
 
