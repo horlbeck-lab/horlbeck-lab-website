@@ -9,8 +9,8 @@
 - title: CRISPR interference and activation
   subtitle: Genome-scale functional screening
   group: prior
-  image: images/paper_thumbnails/horlbeck2016a.tiff
+  image: images/paper_thumbnails/horlbeck2016a.jpg
   link:  https://weissman.wi.mit.edu/resources/
-  description: Up-to-date protocols, libraries (via Addgene), and analysis pipelines.
+  description: Up-to-date protocols, vectors and pooled libraries (via Addgene), and analysis pipelines.
   repo: greenelab/lab-website-template
 
