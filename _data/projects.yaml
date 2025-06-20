@@ -1,7 +1,7 @@
 - title: PRINT and seq2PRINT
   subtitle: ATAC-seq analysis
   group: prior
-  image: images/paper_thumbnails/hu2025.tiff
+  image: images/paper_thumbnails/hu2025.jpg
   link:  https://github.com/buenrostrolab/scPrinter
   description: A set of computational methods for dissecting the organization of promoters and enhancers.
   repo: greenelab/lab-website-template
@@ -14,3 +14,8 @@
   description: Up-to-date protocols, vectors and pooled libraries (via Addgene), and analysis pipelines.
   repo: greenelab/lab-website-template
 
+- title: EpiChroma Clinic
+  subtitle: Care for patients with chromatin disorders at Boston Children's Hospital
+  group: featured
+  image: http://epichromaclinic.com/wp-content/uploads/2018/09/cropped-epichroma-header-logo.png
+  link: http://epichromaclinic.com
