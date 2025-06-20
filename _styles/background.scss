@@ -13,6 +13,7 @@
   position: absolute;
   inset: 0;
   background-image: var(--image);
+  object-fit: scale-down;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 50% 50%;
