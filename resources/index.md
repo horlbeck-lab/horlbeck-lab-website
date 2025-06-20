@@ -13,7 +13,7 @@ We strive to develop molecular and computational methods to advance our understa
 
 ## Featured
 
-<!-- {% include list.html component="card" data="projects" filter="group == 'featured'" %} -->
+{% include list.html component="card" data="projects" filter="group == 'featured'" %}
 
 {% include section.html %}
 
