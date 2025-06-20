@@ -1,6 +1,6 @@
 - id: pmid:39843737
   description: A new computational method for dissecting transcription factor binding and nucleosome binding from bulk and single-cell ATAC-seq data.
-  image: /images/paper_thumbnails/hu2025.tiff
+  image: /images/paper_thumbnails/hu2025.jpg
   authors:
     - Yan Hu\*
     - Max A Horlbeck\*
