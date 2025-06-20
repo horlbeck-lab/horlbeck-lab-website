@@ -33,7 +33,7 @@
   file: sources-highlights.yaml
   description: A new computational method for dissecting transcription factor binding
     and nucleosome binding from bulk and single-cell ATAC-seq data.
-  image: /images/paper_thumbnails/hu2025.tiff
+  image: /images/paper_thumbnails/hu2025.jpg
   buttons:
   - type: twitter
     link: 1882204052114792466
