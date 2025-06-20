@@ -23,13 +23,7 @@ We are always looking to grow our team. We are looking for teammates of all scie
 
 
 {% include section.html %}
-<!-- 
-{% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+## Support 
 
-{% endcapture %} -->
-
-{% include grid.html style="square" content=content %}
+{% include list.html component="card" data="support" style="small" %}
