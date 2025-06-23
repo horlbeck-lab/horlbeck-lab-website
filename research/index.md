@@ -19,7 +19,7 @@ nav:
 * Can restoring normal chromatin function restore cells to a "healthy" state, or is there epigenetic memory of the disease even after correcting the causative gene?
 * When during development is chromatin function most critical?
 
-We will achieve these questions with functional genomics and epigenomics approaches in iPSC-derived neural models, patient-donated tissues, and animal models. 
+We will address these questions with functional genomics and epigenomics approaches in iPSC-derived neural models, patient-donated tissues, and animal models. 
 
 {% endcapture %}
 
