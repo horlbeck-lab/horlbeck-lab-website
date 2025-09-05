@@ -1,6 +1,6 @@
 ---
 name: Evie Pless
-image: images/lab_members/eviepless.jpg
+image: images/lab_members/eviepless.jpeg
 role: staff-scientist
 ---
 
