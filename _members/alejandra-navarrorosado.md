@@ -1,7 +1,7 @@
 ---
 name: Alejandra Navarro-Rosado
 image: images/lab_members/alejandra_navarrorosado.jpg
-role: staff-scientist
+role: research-assistant
 ---
 
 Evie Pless is a computational biologist and data scientist with experience in a range of methodologies and biological systems. She grew up in the Bay Area, CA and studied biology at Stanford University. She joined the Powell Lab at Yale University for her doctoral research, where she investigated population and landscape genetics of the invasive disease vector mosquito Aedes aegypti.
