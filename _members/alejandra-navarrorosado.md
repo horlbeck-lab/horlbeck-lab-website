@@ -4,8 +4,4 @@ image: images/lab_members/alejandra_navarrorosado.jpg
 role: research-assistant
 ---
 
-Evie Pless is a computational biologist and data scientist with experience in a range of methodologies and biological systems. She grew up in the Bay Area, CA and studied biology at Stanford University. She joined the Powell Lab at Yale University for her doctoral research, where she investigated population and landscape genetics of the invasive disease vector mosquito Aedes aegypti.
-
-Evie shifted to population genomics in humans for her postdoc at UC Davis with Dr. Brenna Henn and then joined a biotech startup developing a blood test for lung cancer based on genetic features from cell-free DNA. She is excited for her next chapter investigating chromatinopathies with the Horlbeck Lab!
-
-In her free time, Evie enjoys reading, hiking, and exploring Providence with her family.
+Alejandra Navarro-Rosado is a researcher with experience in cell biology, biochemistry, molecular biology, and genetics. She recently graduated in Natural Sciences from the University of Puerto Rico at Cayey and has conducted research there as well as through summer programs at Rutgers University and Boston University. Her work has included studying transcription factor biology, protein-DNA interactions, and the role of hydrogen sulfide in neurodegenerative diseases such as ALS. Alejandra is excited to join the Horlbeck lab as a research assistant, studying chromatinopathies, and hopes to continue her training through graduate studies in cellular biology and genetics. In her free time, she enjoys drinking coffee, listening to music, dancing, and spending time with her family.
